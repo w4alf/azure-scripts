@@ -1,3 +1,4 @@
+#create my vm Ubuntu
 az vm create \
   --resource-group VM_Bravo_Cluster \
   --location westus \
